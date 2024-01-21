@@ -1,0 +1,22 @@
+.searchForm {
+  label,
+  .searchText,
+  .fromDate,
+  .toDate,
+  .searchButton {
+    margin: 0 5px;
+  }
+
+  .searchButton {
+    background-color: skyblue;
+    color: #fff;
+    border: none;
+    border-radius: 20px;
+    height: 30px;
+    width: 100px;
+  }
+
+  .searchText {
+    width: 200px;
+  }
+}
