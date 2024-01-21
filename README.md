@@ -1,4 +1,5 @@
-Steps to up and running the client
+
+## Steps to up and running the client
 
 1. Navigate to the client project directory
 2. Remove node_modules
